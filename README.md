@@ -20,10 +20,22 @@ B.Tech @ MNNIT Allahabad
 
 ## 🌐 Coding Profiles
 
-<p align="left">
-  <a href="https://leetcode.com/u/lucky1426shrma/" target="_blank">LeetCode</a> •
-  <a href="https://codeforces.com/profile/lucky1426shrma" target="_blank">Codeforces</a> •
-  <a href="https://www.codechef.com/users/nifty_glee_76" target="_blank">CodeChef</a>
+<p align="center">
+  <a href="https://github.com/lucky1426shrma">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucky1426shrma">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/lucky1426shrma/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+  </a>
+  <a href="https://codeforces.com/profile/lucky1426shrma">
+    <img src="https://sta.codeforces.com/s/91848/images/codeforces-logo-with-telegram.png" height="48"/>
+  </a>
 </p>
 
 ## 💼 Featured Projects
