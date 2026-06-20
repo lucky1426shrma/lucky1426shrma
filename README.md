@@ -20,21 +20,27 @@ B.Tech @ MNNIT Allahabad
 
 ## 🌐 Coding Profiles
 
-<p align="center">
-  <a href="https://github.com/lucky1426shrma">
-    <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucky1426shrma">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-</p>
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://leetcode.com/u/lucky1426shrma/">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+<p align="left">
+  <a href="https://github.com/lucky1426shrma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://codeforces.com/profile/lucky1426shrma">
-    <img src="https://sta.codeforces.com/s/91848/images/codeforces-logo-with-telegram.png" height="48"/>
+
+  <a href="https://www.linkedin.com/in/lucky1426shrma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://leetcode.com/u/lucky1426shrma/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://codeforces.com/profile/lucky1426shrma" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://www.codechef.com/users/nifty_glee_76" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
