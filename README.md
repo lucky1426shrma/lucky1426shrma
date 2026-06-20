@@ -21,21 +21,6 @@ B.Tech @ MNNIT Allahabad
 
 ## 💼 Featured Projects
 
-### 🌍 Shaharnaama
-AI-Powered Travel Community & Exploration Platform
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io, Google Gemini
-
-✨ Highlights
-
-- Built an AI quiz engine powered by Gemini 2.5 Flash
-- Implemented real-time group and individual chat
-- Developed interactive geospatial experiences using Mapbox
-- Integrated Google OAuth, JWT Authentication and OTP Verification
-- Designed community engagement features including posts, comments and likes
-
----
-
 ### 🤖 Upsolvers
 Multi-Agent Competitive Programming Assistant
 
@@ -48,6 +33,20 @@ Multi-Agent Competitive Programming Assistant
 - Implemented persistent checkpointing using SQLite
 - Integrated Codeforces and LeetCode APIs
 - Automated personalized CP roadmap generation
+
+### 🌍 Shaharnaama
+AI-Powered Travel Community & Exploration Platform
+
+**Tech Stack:** React.js, Node.js, Express.js, Passport.js MongoDB, Socket.io, Google Gemini
+
+✨ Highlights
+
+- Built an AI quiz engine powered by Gemini 2.5 Flash
+- Implemented real-time group and individual chat
+- Developed interactive geospatial experiences using Mapbox
+- Integrated Google OAuth, JWT Authentication and OTP Verification
+- Designed community engagement features including posts, comments and likes
+
 
 ---
 
@@ -99,13 +98,3 @@ Multi-Agent Competitive Programming Assistant
 - Email: lucky1426sharma@gmail.com
 
 ---
-
-### 💡 Current Focus
-
-```cpp
-while(true){
-    Learn();
-    Build();
-    Compete();
-    Repeat();
-}
