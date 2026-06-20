@@ -18,6 +18,13 @@ B.Tech @ MNNIT Allahabad
 - 🌐 Full Stack Developer focused on scalable web applications
 - 🔍 Currently learning deeper concepts in AI systems and distributed agent workflows
 
+## 🌐 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/lucky1426shrma/" target="_blank">LeetCode</a> •
+  <a href="https://codeforces.com/profile/lucky1426shrma" target="_blank">Codeforces</a> •
+  <a href="https://www.codechef.com/users/nifty_glee_76" target="_blank">CodeChef</a>
+</p>
 
 ## 💼 Featured Projects
 
