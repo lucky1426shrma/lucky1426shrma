@@ -18,8 +18,6 @@ B.Tech @ MNNIT Allahabad
 - 🌐 Full Stack Developer focused on scalable web applications
 - 🔍 Currently learning deeper concepts in AI systems and distributed agent workflows
 
-## 🌐 Coding Profiles
-
 ## 🌐 Connect With Me
 
 <p align="left">
